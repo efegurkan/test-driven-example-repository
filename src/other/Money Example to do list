@@ -7,4 +7,7 @@ Money rounding?
 hashcode
 Equal null
 Equal object
-====IN PROGRESS==== 5CHF *2 = 10 CHF
+####DONE#### 5CHF *2 = 10 CHF
+Dollar/Franc duplication
+common equals
+common times

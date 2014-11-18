@@ -5,6 +5,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 
 import sources.Dollar;
+import sources.Franc;
 
 public class MoneyExampleTest {
 
