@@ -1,7 +1,9 @@
 package sources;
 
-public abstract class Money {
-	public abstract Money times(int multiplier);
+public class Money {
+	public Money times(int multiplier){
+		return null;
+	};
 	
 	
 	protected int amount;
@@ -28,6 +30,10 @@ public abstract class Money {
 	
 	public String currency(){
 		return currency;
+	}
+	
+	public String toString(){
+		return amount + " " + currency;
 	}
 
 }
