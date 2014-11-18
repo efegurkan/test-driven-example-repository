@@ -3,3 +3,5 @@ $5 + 10 CHF = $10  if rate is 2:1
 Make "amount" private
 ####DONE####Dollar side-effects?
 Money rounding?
+====INPROGRESS====equals()
+hashcode

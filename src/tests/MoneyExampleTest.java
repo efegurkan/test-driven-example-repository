@@ -21,5 +21,10 @@ public class MoneyExampleTest {
 		assertEquals(15, product.amount);
 	}
 	
+	@Test
+	public void testEqualty(){
+		assertTrue(new Dollar(5).equals(new Dollar(5)));
+	}
+	
 
 }
