@@ -1,0 +1,6 @@
+Basic tasks for TDD - from TDD by Example by Kent Beck
+
+1. Red - Write a little test that doesn't work, and doesn't even compile at first time.
+2. Green - make the test work quickly, committing whatever sins necessary in the process
+3. Refactor - eliminate all the duplication created in just getting the test to work
+
