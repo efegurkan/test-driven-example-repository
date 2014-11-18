@@ -6,6 +6,7 @@ import org.junit.Test;
 
 import sources.Dollar;
 import sources.Franc;
+import sources.Money;
 
 public class MoneyExampleTest {
 
@@ -15,7 +16,7 @@ public class MoneyExampleTest {
 	
 	@Test
 	public void testMultiplication(){
-		Dollar five = new Dollar(5);
+		Money five = Money.dollar(5);
 		assertEquals(new Dollar(10), five.times(2));
 		assertEquals(new Dollar(15), five.times(3));
 	}
