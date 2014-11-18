@@ -8,7 +8,9 @@ hashcode
 Equal null
 Equal object
 ####DONE#### 5CHF *2 = 10 CHF
-====IN PROGRESS====Dollar/Franc duplication
+--will continue later--Dollar/Franc duplication
 ####DONE####common equals
 common times
 ####DONE####Compare Francs to dollars
+====IN PROGRESS==== currency?
+Delete testFrancMultiplication?
