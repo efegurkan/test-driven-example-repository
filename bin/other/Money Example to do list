@@ -1,7 +1,10 @@
 $5 + 10 CHF = $10  if rate is 2:1 
 ####DONE#### $5 * 2 = $10 
-====IN PROGRESS====Make "amount" private
+####DONE####Make "amount" private
 ####DONE####Dollar side-effects?
 Money rounding?
 ####DONE####equals()
 hashcode
+Equal null
+Equal object
+====IN PROGRESS==== 5CHF *2 = 10 CHF
