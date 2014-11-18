@@ -2,6 +2,9 @@ package sources;
 
 public abstract class Money {
 	public abstract Money times(int multiplier);
+	public abstract String currency();
+	
+	
 	protected int amount;
 	
 	public boolean equals(Object object){
